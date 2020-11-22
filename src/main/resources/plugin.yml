@@ -1,0 +1,12 @@
+name: Al
+version: ${project.version}
+main: me.wackee.al.Al
+api-version: 1.16
+description: lookslikerep
+commands:
+  alType:
+    description: lookslikerep
+  alTool:
+    description: lookslikereptool
+  suicide:
+    description: bye felicia
